@@ -1,4 +1,4 @@
-# Regime-based Analysis of Sector Returns under Varying Macroeconomic Conditions
+# Regime-based Analysis of Sector Returns Under Varying Macroeconomic Conditions
 
 This project analyzes the impact between the macro environment under different economic conditions and various stock market sectors. The goal is to examine the volatility of these sectors in distinct regimes such as; high inflation + rising rates and low inflation + falling rates. 
 
